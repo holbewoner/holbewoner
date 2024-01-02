@@ -12,14 +12,9 @@
 
 ### i like
 - rust
-- agi research
 - decentralized systems
 - nix
 - functional programming
 - blockchain things
 - algos
-- computational biology
 - scale
-
-it's not about being right or being wrong.  
-there are more important things than that
